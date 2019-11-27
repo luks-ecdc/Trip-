@@ -2,11 +2,11 @@
 
 **Faculdade**: FATEC Jessen Vidal de São José dos Campos
 
-**Aluno**: Gabriel Venegas
+**Aluno**: Lucas Eduardo C. da Costa
 
-**Aluno**: Beatrice Lopes
+**Aluno**: Matheus Henrique
 
-**Aluno**: Jefferson Lopes
+
 
 **Professor**: Giuliano Araujo Bertoti
 
